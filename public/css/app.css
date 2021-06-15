@@ -1,0 +1,17 @@
+.center{
+    position:absolute;
+    top: 35px;
+    overflow-x: hidden;
+}
+
+.alert{
+    padding:20px;
+}
+
+.alert-danger{
+    background-color: red;
+}
+
+.alert-success{
+    background: green;
+}
